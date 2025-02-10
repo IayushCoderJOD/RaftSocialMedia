@@ -12,7 +12,6 @@ A social media app where users can register, log in, create posts, like posts, a
 - [X] User profiles
 - [X] Admin privileges (delete posts)
 
-## Installation
 
 ### Clone the Repository
 
