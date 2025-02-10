@@ -12,6 +12,9 @@ import { FETCH_POSTS_QUERY } from "../util/graphql";
 function Home() {
   const { loading, data } = useQuery(FETCH_POSTS_QUERY);
   const { isDarkTheme } = useContext(ThemeContext);
+  useEffect(() => {
+    isDarkTheme = false;
+  }, [])
   const { user } = useContext(AuthContext);
 
   const posts = data?.getPosts || [];
