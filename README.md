@@ -21,26 +21,19 @@ git clone git@github.com:EzequielCaste/React-GraphQL-Social-App.git
 cd React-GraphQL-Social-App
 
 Backend Setup
-Navigate to the /server directory:
-sh
-Copy
-Edit
-cd server
+Navigate to the /backend directory:
+
+cd backend
 npm install
+
 Start the server:
-sh
-Copy
-Edit
 node index.js
+
+
 Frontend Setup
-Open a new terminal and navigate to the /client directory:
-sh
-Copy
-Edit
+
 cd ../client
 npm install
+
 Start the client:
-sh
-Copy
-Edit
 npm run dev
