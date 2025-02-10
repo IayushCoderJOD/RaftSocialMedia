@@ -12,35 +12,29 @@ A social media app where users can register, log in, create posts, like posts, a
 - [X] User profiles
 - [X] Admin privileges (delete posts)
 
-## Installation
 
 ### Clone the Repository
 
 ```sh
-git clone git@github.com:EzequielCaste/React-GraphQL-Social-App.git
+git clone https://github.com/IayushCoderJOD/RaftSocialMedia.git
 cd React-GraphQL-Social-App
 
+before hand make sure to connect MongoDb, and firebae auths
+
 Backend Setup
-Navigate to the /server directory:
-sh
-Copy
-Edit
-cd server
+Navigate to the /backend directory:
+
+cd backend
 npm install
+
 Start the server:
-sh
-Copy
-Edit
 node index.js
+
+
 Frontend Setup
-Open a new terminal and navigate to the /client directory:
-sh
-Copy
-Edit
+
 cd ../client
 npm install
+
 Start the client:
-sh
-Copy
-Edit
 npm run dev
