@@ -23,6 +23,13 @@ After loggin in this type of page shows up, here you can add post by writing cap
 If you don't follow anyone then you can click on the Show all post. With which all the post shows up now you can follow specific people and as you follow their names will be shown on the right side bar.
 
 
+Themes..
+
+Dark- ![image](https://github.com/user-attachments/assets/c7377382-20bd-449b-a828-9433d44da600)
+Light- ![image](https://github.com/user-attachments/assets/e0b7dbef-c4e9-4d74-802a-68a42a0c2a61)
+
+
+
 
 ### Clone the Repository
 
