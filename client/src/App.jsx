@@ -13,7 +13,7 @@ import Register from './pages/Register';
 import SinglePost from './pages/SinglePost';
 import UserProfile from './pages/UserProfile';
 
-const App: React.FC = () => {
+const App = () => {
   return (
     <AuthProvider>
       <Router>
