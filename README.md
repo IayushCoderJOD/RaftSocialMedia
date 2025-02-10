@@ -12,6 +12,24 @@ A social media app where users can register, log in, create posts, like posts, a
 - [X] User profiles
 - [X] Admin privileges (delete posts)
 
+page 1.
+![image](https://github.com/user-attachments/assets/822f8c37-1e7a-4b75-9e0c-fe9b621157a9)
+
+Try Light Theme first it's better, and start by either logging in(if already a user) or register(if new user).
+
+page 2
+![image](https://github.com/user-attachments/assets/449aad69-591e-4f8e-8719-69eed6f1b184)
+After loggin in this type of page shows up, here you can add post by writing caption and pasting the image url as of now.
+If you don't follow anyone then you can click on the Show all post. With which all the post shows up now you can follow specific people and as you follow their names will be shown on the right side bar.
+
+
+Themes..
+
+Dark- ![image](https://github.com/user-attachments/assets/c7377382-20bd-449b-a828-9433d44da600)
+Light- ![image](https://github.com/user-attachments/assets/e0b7dbef-c4e9-4d74-802a-68a42a0c2a61)
+
+
+
 
 ### Clone the Repository
 
