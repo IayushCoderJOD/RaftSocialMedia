@@ -53,7 +53,7 @@ export default function PostForm() {
     <>
       <Form onSubmit={onSubmit}>
         <h5 className="page-title">Post something!</h5>
-        <Form.Field>
+        <Form.Field >
           <Form.Input
             placeholder="Write caption along with image URL ..."
             name="body"

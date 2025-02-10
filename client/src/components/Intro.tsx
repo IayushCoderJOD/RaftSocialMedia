@@ -29,7 +29,10 @@ const Intro = () => {
                     />}
                 </h1>
                 <p className={isDarkTheme ? "text-white" : ""}>
-                    This app is meant to make the employees closer😅
+                    This app is meant to make the employees closer😅  <br />
+                    <a target='_blank' href="https://github.com/IayushCoderJOD/RaftSocialMedia/blob/main/README.md">
+                        <b className='text-purple-800 text-lg font-semibold'>Readme file <span className='text-red-400 font-bold' >Link</span> to know the site's flow</b>
+                    </a>
                 </p>
             </div>
         </>
