@@ -1,19 +1,23 @@
-# React GraphQL
+# React GraphQL Social App
+
 ## Description
 
-Basically a social media app clone where users can register, login, create posts, like posts.
+A social media app where users can register, log in, create posts, like posts, and interact with others.
 
 ## Features
 
-I'm going to add the following features to improve on the base project:
-- [X] Allow user to edit their post
-- [X] Responsive layout for Mobile and Tablet
-- [X] Light/Dark Theme Selector
-- [X] User Profile
-- [X] Admin privileges, delete posts and comments
+- [X] Edit posts
+- [X] Responsive layout for mobile and tablet
+- [X] Light/Dark theme selector
+- [X] User profiles
+- [X] Admin privileges (delete posts and comments)
 
+## Live Demo
 
+The application is deployed and accessible online:  
+[Visit the App](#)
 
+<<<<<<< HEAD
 ### Deployed to Netlify
 a
 [Visit the app](https://ezecaste-social-app.netlify.app/)
@@ -59,3 +63,11 @@ npm run dev
 ### Deployment
 - Client deployed to [Netlify](https://ezecaste-social-app.netlify.app/)
 - Server deployed to Fly.io
+=======
+## Installation
+
+### Clone the Repository
+```sh
+git clone <repository-url>
+cd React-GraphQL-Social-App
+>>>>>>> 4555d3c137b55cb73dd749fb491e0d172767560f
