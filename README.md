@@ -28,7 +28,14 @@ Themes..
 Dark- ![image](https://github.com/user-attachments/assets/c7377382-20bd-449b-a828-9433d44da600)
 Light- ![image](https://github.com/user-attachments/assets/e0b7dbef-c4e9-4d74-802a-68a42a0c2a61)
 
+Using Buttons- ![image](https://github.com/user-attachments/assets/e5b5d079-b605-4b33-b63c-77c634d92634)
 
+
+Delete post (red dustbin) ![image](https://github.com/user-attachments/assets/52e584cf-3222-4f3a-8142-752d71918957)
+Blue Pen- To update the caption and image by the user.
+Like Button.
+
+Recommendation system- 
 
 
 ### Clone the Repository
