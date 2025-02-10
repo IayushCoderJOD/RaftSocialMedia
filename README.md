@@ -17,8 +17,10 @@ A social media app where users can register, log in, create posts, like posts, a
 ### Clone the Repository
 
 ```sh
-git clone git@github.com:EzequielCaste/React-GraphQL-Social-App.git
+git clone https://github.com/IayushCoderJOD/RaftSocialMedia.git
 cd React-GraphQL-Social-App
+
+before hand make sure to connect MongoDb, and firebae auths
 
 Backend Setup
 Navigate to the /backend directory:
