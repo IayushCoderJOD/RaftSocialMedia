@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": [
+      "DOM",
+      "ESNext"
+    ],
+    "allowJs": true, // Allows JavaScript files
+    "checkJs": false, // Disable type checking for JS files (set true for optional warnings)
+    "jsx": "react-jsx", // Supports JSX syntax in both TS and JS files
+    "strict": false, // Disable strict mode (optional, but useful for mixed projects)
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
